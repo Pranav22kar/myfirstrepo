@@ -1,4 +1,4 @@
 # myfirstrepo
 This is my first git repository
 <br>
-Author = Pranav Bavisker
+Author = Pranav Baviskar
